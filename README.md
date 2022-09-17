@@ -3,6 +3,18 @@
 </div>
 
 <h1 align="center">
-  DATA SCIENTIST
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
+
+
+---
+
+### :woman_technologist: About Me :
+
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+### :hammer_and_wrench: Languages and Tools :

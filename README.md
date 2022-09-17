@@ -19,7 +19,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div background-color='white'>
+<div color='white'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
   
 </div>

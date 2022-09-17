@@ -29,4 +29,5 @@ I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience i
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/akaash198/
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/akaash198/&theme=dark&background=000000)](https://git.io/streak-stats)

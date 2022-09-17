@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
- 
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
-    <style>
-     @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+      <style>
+        /* your CSS */
+       @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 
 *{
@@ -150,8 +145,17 @@ nav ul li a:hover:after{
         width: 100%;
     }
 }
-    </style>
-   
+      </style>
+
+      <!DOCTYPE html>
+<html lang="en">
+ 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"/>
 </head>
 <body>
     <div class="hero">
@@ -172,6 +176,11 @@ nav ul li a:hover:after{
         </div>
     </div>
     </div>
- 
+      
 </body>
 </html>
+
+
+    </div>
+  </foreignObject>
+</svg>

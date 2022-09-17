@@ -32,3 +32,6 @@ I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience i
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akaash198&theme=merko)](https://git.io/streak-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaash198&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

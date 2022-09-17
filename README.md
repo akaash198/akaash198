@@ -20,6 +20,7 @@ I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience i
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="jy" alt="jy" width="50" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="js" width="50" height="40" />&nbsp;

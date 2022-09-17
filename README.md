@@ -15,12 +15,12 @@
 I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience in delivering valuable insights via data analytics and advanced data-driven methods. proficient in building statistical models with Python & R programming and creating web applications using the Django framework.
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-akaash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-c/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akaash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-c/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div color='white'>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="40" />&nbsp;
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="50" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="50" height="40" />&nbsp;
   
 </div>

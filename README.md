@@ -35,3 +35,9 @@ I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaash198&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/akaash198/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaash198&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/akaash198/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akaash198&repo=convoychat" />
+</a>

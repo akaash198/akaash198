@@ -27,3 +27,6 @@ I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience i
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jy" alt="jy" width="50" height="40" />&nbsp;
   
 </div>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/akaash198/

@@ -10,7 +10,7 @@
 
 ---
 
-### :men_technologist: About Me :
+### :man_technologist: About Me :
 
 I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience in delivering valuable insights via data analytics and advanced data-driven methods. proficient in building statistical models with Python & R programming and creating web applications using the Django framework.
 

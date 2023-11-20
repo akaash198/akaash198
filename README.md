@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-I am an Aspiring Machine Learning Engineer with 3 years of hands-on experience in delivering valuable insights via data analytics and advanced data-driven methods. proficient in building statistical models with Python & R programming and creating web applications using the Django framework.
+Data Science Engineer with a proven track record of using advanced data-driven methods to deliver valuable insights. Proven ability to build statistical models using Python programming and create web applications using the Django framework. Expertise in data analysis and visualization.
 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Akaash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-c/)
